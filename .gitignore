@@ -1,0 +1,8 @@
+env
+/.vscode
+/.chainlit
+/.env
+/.files
+/__pycache__
+/.venv
+/env
